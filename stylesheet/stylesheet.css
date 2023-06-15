@@ -51,7 +51,7 @@ body{
 #login{
     width: 5%;
     border-radius: 10px;
-    min-height: 50px;
+    min-height: 30px;
     padding-left: 100px;
     float: left;
     margin-left: 280px;
@@ -60,7 +60,7 @@ body{
 }
 .hhh{
   border-radius: 5px;
-   padding: 5px;
+   
 }
 .clearfix::after{
     content: "";
@@ -122,10 +122,14 @@ body{
 #div3{
     width: 95%;
     min-height: 500px;
-    background-color: #faf1ec; 
+     
     margin: auto;
     margin-bottom: 100px;
    
+}
+.section1{
+    background-color: #faf1ec;
+    
 }
 .zzz{
     width: 42%;
@@ -232,24 +236,30 @@ body{
 #div4{
     width: 95%;
     min-height: 500px;
-    background-color: #faf1ec; 
+    background-color: #fbf5f2;
+    
     margin: auto;
     margin-bottom: 100px;
   
 }
-.zzz{
+/* .section2{
+    background-color: #ccc8c6; 
+    
+
+} */
+.zz{
     width: 42%;
     min-height: 500px ;
-    background-color: #faf1ec;
+    background-color: #fbf5f2;
     float: left;
     line-height: 35px;
     padding-left: 100px;
  
 }
-.jjj{
+.jj{
     width: 50%;
     min-height: 500px ;
-    background-color: #faf1ec;
+    background-color:#fbf5f2;
     float: right;
    
 }
@@ -260,43 +270,42 @@ body{
 .uuu{
     width: 100%;
     min-height: 166px;
-    background-color: #faf1ec;
+    
     
 }
-.ppp{
+.pp{
     width: 100%;
     min-height: 166px;
-    background-color: #faf1ec;
-
+    background-color: #fbf5f2;
 }
-.ooo
+.oo
 {
     width: 100%;
     min-height: 166px;
-    background-color: #faf1ec;
+    background-color: #fbf5f2;
     
 }
-.q{
+.qq{
     width: 50%;
     min-height: 166px;
-    background-color: #faf1ec;
+    background-color: #fbf5f2;
     
     float: right;
 
 }
-.e{
+.ee{
     width: 50%;
     min-height: 166px;
-    background-color: #faf1ec;
+    background-color: #fbf5f2; 
    
     float: right;
 
 }
 
-.t{
+.tt{
     width: 50%;
     min-height: 166px;
-    background-color: #faf1ec;
+    background-color: #fbf5f2;
     
     float: right;
 
@@ -312,24 +321,23 @@ body{
     line-height: 20px;
     
 }
-.ee{
+.e2{
     width: 50%;
     min-height: 166px;
-    background-color: #faf1ec;
+    background-color: #fbf5f2;
    
 }
-.ii{
+.iii{
     width: 50%;
     min-height: 166px;
-    background-color: #faf1ec;
-   
+    background-color: #fbf5f2;
 }
 
-.hh{
+.hhh{
     width: 50%;
     min-height: 166px;
-    background-color: #faf1ec;
-  
+   
+    background-color: #fbf5f2;
 }
 
 
