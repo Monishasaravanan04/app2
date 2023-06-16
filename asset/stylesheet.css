@@ -23,7 +23,7 @@ body{
 #nav{
     width: 30%;
     min-height: 50px;
-   padding-left: 20px;
+   
     float: left;
     border-radius: 10px;
     margin-left: 300px;
@@ -417,5 +417,5 @@ body{
     margin-right: 35px;
 }
 
-/* second */
+
 
